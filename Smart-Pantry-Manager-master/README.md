@@ -1,6 +1,6 @@
 # Smart Pantry Manager (Android)
 
-**Student Name:** Riyaad [LAST NAME]  
+**Student Name:** ROSE [LAST NAME]  
 **Module:** Mobile App Development 700 - Practical Assignment
 
 ## Concept
@@ -26,7 +26,7 @@ The core value of this application is the **Strict-Matching Logic**. A recipe is
 - **Architecture:** MVVM-inspired structure with isolated DAO, Model, and Network layers.
 
 ## Setup & Run Instructions
-1.  **Clone the Repository:** `git clone https://github.com/Riyaad24/Smart-Pantry-Manager.git`
+1.  **Clone the Repository:** `https://github.com/rosemadhlalati/smart-pantry-assignment.git
 2.  **Open in Android Studio:** Open the project in **Android Studio Hedgehog** (or newer).
 3.  **Sync Gradle:** Allow the IDE to sync dependencies from the `build.gradle` and `libs.versions.toml` files.
 4.  **Internet Access:** Ensure your computer has internet access for the **TheMealDB API** to fetch live images.
